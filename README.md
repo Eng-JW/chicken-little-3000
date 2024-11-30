@@ -1,6 +1,6 @@
 # Chicken Little 3000 🐣
 
-[Leia este README em Português](README_PT-BR_.md)
+[Leia este README em Português](README_PT-BR.md)
 
 The Chicken Little 3000 is an automated incubator designed to control temperature and humidity during the incubation process of quail and chicken eggs. The system uses sensors to maintain optimal conditions for hatching eggs, ensuring a higher success rate. 🌡️💧
 
