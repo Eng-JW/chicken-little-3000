@@ -1,6 +1,6 @@
 # Chicken Little 3000 🐣
 
-[Read this README in English](README_EN.md)
+[Read this README in English](README.md)
 
 O Chicken Little 3000 é uma incubadora automatizada projetada para controlar a temperatura e a umidade durante o processo de incubação dos ovos de codorna e galinha. O sistema usa sensores para manter as condições ideais para a eclosão dos ovos, garantindo uma taxa de sucesso maior. 🌡️💧
 
