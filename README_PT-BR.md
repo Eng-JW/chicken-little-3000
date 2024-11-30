@@ -52,14 +52,3 @@ O Chicken Little 3000 usa o microcontrolador ESP32 para monitorar e regular os n
 ## Contribuindo 🤝
 
 Se você quiser contribuir para este projeto, fique à vontade para fazer um fork no repositório, criar uma branch e enviar um pull request com suas mudanças.
-
-## Licença 📜
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Agradecimentos 🙏
-
-- **ESP32**: Por sua versatilidade e potência no gerenciamento de sensores e controle do sistema.
-- **DHT22**: Por fornecer leituras confiáveis e precisas de temperatura e umidade.
-- **Impressão 3D**: Por permitir a criação de peças personalizadas a baixo custo.
-- **MDF Cortado a Laser**: Por criar a estrutura externa precisa da incubadora.
