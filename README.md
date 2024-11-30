@@ -4,9 +4,13 @@
 
 **Chicken Little 3000** é uma incubadora automatizada projetada para controlar a temperatura e a umidade durante o processo de incubação de ovos de codorna e galinha. O sistema utiliza sensores de alta precisão e componentes eletrônicos modernos, garantindo condições ideais para maximizar a taxa de eclosão.  
 
-![Chicken Little 3000](assets/images/incubator.png)  
+![Chicken Little 3000](assets/images/img_01.png)  
 
-> *Figura 1: Estrutura física do Chicken Little 3000*  
+> *Figura 1: Estrutura física do Chicken Little 3000*
+
+![Chicken Little 3000](assets/images/img_02.png)  
+
+> *Figura 2: Estrutura física do Chicken Little 3000*  
 
 ---
 
