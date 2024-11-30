@@ -41,7 +41,7 @@ Este projeto é o **primeiro projeto interdisciplinar** do curso de graduação 
 ## Modelo 3d 💻
 
 > Figura 3: Modelagem 3d do Chicken Little 3000
-<img src="assets/images/img_03.jpg" width="300" height="200" />
+<img src="assets/images/img_03.png" width="300" height="200" />
 
 ## Contribuindo 🤝
 
