@@ -4,7 +4,9 @@
 
 The Chicken Little 3000 is an automated incubator designed to control temperature and humidity during the incubation process of quail and chicken eggs. The system uses sensors to maintain optimal conditions for hatching eggs, ensuring a higher success rate. 🌡️💧
 
-![Chicken Little 3000](assets/images/img_01.png)
+![Chicken Little 3000](assets/images/img_01.jpg)
+
+![Chicken Little 3000](assets/images/img_02.jpg)
 
 ## Objective 🎯
 
@@ -53,13 +55,3 @@ The Chicken Little 3000 uses the ESP32 microcontroller to monitor and regulate t
 
 If you'd like to contribute to this project, feel free to fork the repository, create a branch, and submit a pull request with your changes.
 
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments 🙏
-
-- **ESP32**: For its versatility and power in managing sensors and controlling the system.
-- **DHT22**: For providing reliable and accurate temperature and humidity readings.
-- **3D Printing**: For enabling custom part creation at low cost.
-- **Laser-Cut MDF**: For creating the precise external structure of the incubator.
