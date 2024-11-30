@@ -41,7 +41,7 @@ This project is the **first interdisciplinary project** of the undergraduate pro
 ## 3D Model 💻
 
 > Figure 3: 3D Model of the Chicken Little 3000
-<img src="assets/images/img_03.jpg" width="300" height="200" />
+<img src="assets/images/img_03.png" width="300" height="200" />
 
 ## Contributing 🤝
 
